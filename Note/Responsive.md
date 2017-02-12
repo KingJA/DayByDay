@@ -48,3 +48,8 @@ max-width: 100%;
 }
 
 ，删除宽度和高度属性
+
+background-color: rgba(255, 255, 255, 0.8);
+http://lea.verou.me/css3patterns/ 背景
+
+https://css-tricks.com/ 讨论CSS技术
